@@ -1,0 +1,18 @@
+*{
+    background-color: blanchedalmond;
+}
+h1,h2{
+    font-family: sans-serif;
+    color: purple;
+}
+ .text{
+    text-align: center;
+ }
+a{
+    text-decoration: none;
+    border: 1px dotted gray;
+    color: purple;
+}
+
+
+
